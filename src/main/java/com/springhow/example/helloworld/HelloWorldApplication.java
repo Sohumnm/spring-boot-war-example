@@ -23,7 +23,7 @@ public class HelloWorldApplication extends SpringBootServletInitializer {
 
     @RequestMapping("/")
     String helloWorld() {
-        return "TESTING SUCCESSFULL GITHUB-HOOK";
+        return "YES POLL SCM SUCCEDED";
     }
 
 }
