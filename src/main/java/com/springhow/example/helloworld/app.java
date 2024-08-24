@@ -23,7 +23,7 @@ public class HelloWorldApplication extends SpringBootServletInitializer {
 
     @RequestMapping("/")
     String helloWorld() {
-        return "I am the ruler of heart. Devops check 1 2 3. 123466788994554";
+        return "7845654864651516565488451351658646846513213215487784451568454";
     }
 
 }
