@@ -1,5 +1,5 @@
 # Use a base image with Tomcat 9
-FROM tomcat:9-jdk11-openjdk-slim
+FROM FROM tomcat:9.0-alpine
 
 # Remove the default webapps folder
 RUN rm -rf /usr/local/tomcat/webapps/*
