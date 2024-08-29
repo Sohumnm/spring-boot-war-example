@@ -23,7 +23,7 @@ public class HelloWorldApplication extends SpringBootServletInitializer {
 
     @RequestMapping("/")
     String helloWorld() {
-            return "Congratulation, SUCCESSFULLY INITIATED CICD END TO END USING GIT, JENKINS & ANSIBLE WHICH TRIGGERED CONTAINERS IN DOCKER SERVER. PROJECT4 COMPLETED SUCCESSFULLY!!";
+            return "Congratulation, SUCCESSFULLY INITIATED CICD END TO END USING GIT, JENKINS & ANSIBLE WHICH TRIGGERED CONTAINERS IN DOCKER SERVER. PROJECT4 COMPLETED SUCCESSFULLY!!                                         SMILE BROTHER!!";
     }
 
 }
